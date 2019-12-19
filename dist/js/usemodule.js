@@ -1,1 +1,1 @@
-"use strict";var _module_effect=require("./module_effect.js");new _module_effect.Tab;
+"use strict";require("./module_index_render.js"),require("./module_details_render.js");var _module_effect=require("./module_effect.js");(new _module_effect.Lunbo).init();

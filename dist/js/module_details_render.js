@@ -1,0 +1,1 @@
+"use strict";var _module_tool=require("./module_tool.js");(0,_module_tool.ajax)({type:"get",url:"http://10.31.161.207/SFYX/php/details_render.php",data:{picsid:(void 0).sid},dataType:"json"}).then(function(o){console.log(o.urls)});
